@@ -18,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1254">
-              <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+              <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -32,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/assets/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="381">
-              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -40,11 +40,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-10-31-welcome-to-massively-the-jekyll-theme.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-10-31-welcome-to-massively-the-jekyll-theme.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-10-31-welcome-to-massively-the-jekyll-theme.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-10-31-test-post.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-10-31-test-post.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -58,6 +67,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/_posts/2017-10-31-test-post.md" />
       </list>
     </option>
   </component>
@@ -154,12 +164,12 @@
       <option name="presentableId" value="Default" />
       <updated>1532945276247</updated>
       <workItem from="1532945277381" duration="11000" />
-      <workItem from="1532945433755" duration="508000" />
+      <workItem from="1532945433755" duration="806000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="519000" />
+    <option name="totallyTimeSpent" value="817000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="264" y="27" width="1400" height="1023" extended-state="0" />
@@ -194,7 +204,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1254">
-          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -204,7 +214,7 @@
     <entry file="file://$PROJECT_DIR$/assets/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="381">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -214,7 +224,14 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-31-welcome-to-massively-the-jekyll-theme.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-31-test-post.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
         </state>
       </provider>
     </entry>
